@@ -4,7 +4,7 @@
 
 ### InnovativeAI specializes in computer vision and statistics, Lenny Bayer stands as a distinguished leader. Their expertise encompasses a broad spectrum of machine learning methodologies, from ideas like neural network and decision tree to algorithms like K-means clustering and so on.
 <p align="center">
-<img src="bg.png" alt="bg">
+<img src="https://github.com/InnovativeAI/.github/blob/main/profile/bg.png" alt="bg">
 </p>
 
 ### Do you have got some complex problems to be resolved? They’re already thinking of solutions involving Computer Vision (CV), Statistics, Data Analytics, and the Internet of Things (IoT). But they don’t throw around these terms just to impress; they’re the nuts and bolts of the transformative products they create.
