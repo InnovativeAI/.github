@@ -5,7 +5,9 @@ Lenny Bayer says, "Machine learning will change the world. If you don't want to 
 Ocean Lian(https://github.com/c0r2a-lab) is following his leader(Lenny Bayer) with his true heart because their ideas are unified as one. Ocean Lian believes that their team will succeed for sure.
 
 ![GIF](https://github.com/InnovativeAI/.github/blob/main/profile/video.gif)
-
+<div style="text-align:center">
+<img src="https://github.com/InnovativeAI/.github/blob/main/profile/video.gif" />
+</div>
 <!--
 
 **Here are some ideas to get you started:**
