@@ -1,12 +1,14 @@
 ## InnovativeAI
 
-InnovativeAI specializes in computer vision and statistics, Lenny Bayer stands as a distinguished leader. Their expertise encompasses a broad spectrum of machine learning methodologies, from ideas like neural network and decision tree to algorithms like K-means clustering and so on.
-Got a complex problem? They’re already thinking of solutions involving Computer Vision (CV), Statistics, Data Analytics, and the Internet of Things (IoT). But they don’t throw around these terms just to impress; they’re the nuts and bolts of the transformative products they create.
-They also bring their technical expertise to Financial Algorithmic Trading, Acoustic Data Analysis, and Predictive Maintenance. Composed of seasoned engineers and managers, InnovativeAI is adept at real-world AI and Machine Learning applications. When clients find the prospect of AI integration overwhelming or risky, the InnovativeAI team guides them through the technological maze.
-
 <p align="center">
 <img src="https://github.com/InnovativeAI/.github/blob/main/profile/video.gif" alt="GIF Animation" />
 </p>
+
+### InnovativeAI specializes in computer vision and statistics, Lenny Bayer stands as a distinguished leader. Their expertise encompasses a broad spectrum of machine learning methodologies, from ideas like neural network and decision tree to algorithms like K-means clustering and so on.
+### Got a complex problem? They’re already thinking of solutions involving Computer Vision (CV), Statistics, Data Analytics, and the Internet of Things (IoT). But they don’t throw around these terms just to impress; they’re the nuts and bolts of the transformative products they create.
+### They also bring their technical expertise to Financial Algorithmic Trading, Acoustic Data Analysis, and Predictive Maintenance. Composed of seasoned engineers and managers, InnovativeAI is adept at real-world AI and Machine Learning applications. When clients find the prospect of AI integration overwhelming or risky, the InnovativeAI team guides them through the technological maze.
+
+
 <!--
 
 **Here are some ideas to get you started:**
