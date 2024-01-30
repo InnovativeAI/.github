@@ -6,10 +6,12 @@
 <p align="center">
 <img src="bg.png" alt="bg">
 </p>
+
 ### Do you have got some complex problems to be resolved? They’re already thinking of solutions involving Computer Vision (CV), Statistics, Data Analytics, and the Internet of Things (IoT). But they don’t throw around these terms just to impress; they’re the nuts and bolts of the transformative products they create.
 <p align="center">
 <img src="https://github.com/InnovativeAI/.github/blob/main/profile/video.gif" alt="GIF Animation" />
 </p>
+
 ### They also bring their technical expertise to Financial Algorithmic Trading, Acoustic Data Analysis, and Predictive Maintenance. Composed of seasoned engineers and managers, InnovativeAI is adept at real-world AI and Machine Learning applications. When clients find the prospect of AI integration overwhelming or risky, the InnovativeAI team guides them through the technological maze.
 
 
