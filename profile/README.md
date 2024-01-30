@@ -4,6 +4,7 @@ InnovativeAI specializes in computer vision and statistics, Lenny Bayer(https://
 Lenny Bayer says, "Machine learning will change the world. If you don't want to be dinosaur of 21st century, learn machine learning."
 Ocean Lian(https://github.com/c0r2a-lab) is following his leader(Lenny Bayer) with his true heart because their ideas are unified as one. Ocean Lian believes that their team will succeed for sure.
 
+https://github.com/InnovativeAI/.github/blob/main/profile/video.mp4
 
 <!--
 
