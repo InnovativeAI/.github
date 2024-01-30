@@ -1,8 +1,8 @@
 ## InnovativeAI
 
 InnovativeAI specializes in computer vision and statistics, Lenny Bayer(https://github.com/lbayer10) stands as a distinguished leader. Their expertise encompasses a broad spectrum of machine learning methodologies, from ideas like neural network and decision tree to algorithms like K-means clustering and so on.
-Lenny Bayer says, "Machine learning will change the world. If you don't want to be dinosaur of 21st century, learn machine learning."
-Ocean Lian(https://github.com/c0r2a-lab) is following his leader(Lenny Bayer) with his true heart because their ideas are unified as one. Ocean Lian believes that their team will succeed for sure.
+Got a complex problem? They’re already thinking of solutions involving Artificial Intelligence (AI), Machine Learning (ML), Data Analytics, and the Internet of Things (IoT). But they don’t throw around these terms just to impress; they’re the nuts and bolts of the transformative products they create.
+They also bring their technical expertise to Financial Algorithmic Trading, Acoustic Data Analysis, and Predictive Maintenance. Composed of seasoned engineers and managers, InnovativeAI is adept at real-world AI and Machine Learning applications. When clients find the prospect of AI integration overwhelming or risky, the Digica team guides them through the technological maze.
 
 <p align="center">
 <img src="https://github.com/InnovativeAI/.github/blob/main/profile/video.gif" alt="GIF Animation" />
