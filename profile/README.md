@@ -23,7 +23,7 @@ InnovativeAI is a collaborative team of machine learning engineers, data scienti
 
 ### Autonomous Drone Navigation
 - **Description**: Our team is researching and developing an autonomous drone navigation system using reinforcement learning. This project aims to enable drones to navigate complex environments and perform tasks with minimal human intervention.
-- **Repository**: [AutonomousDronesRL](https://github.com/InnovativeAI/AutonomousDronesRL)
+- **Repository**: [AutonomousDronesRL](https://github.com/InnovativeAI/OpenCV_Sign_Traffic_Detection)
 
 ## Contributions and Collaboration
 We welcome contributions from the open source community. If you're passionate about AI and want to collaborate with us, feel free to explore our projects and submit pull requests. We believe in the power of collaboration and knowledge sharing to drive innovation in the field of AI.
