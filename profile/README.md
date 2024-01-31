@@ -1,7 +1,7 @@
 # Welcome to InnovativeAI
 
 <p align="center">
-<img src="https://github.com/innovativeai/profile/video.gif">
+<img src="https://github.com/InnovativeAI/.github/blob/main/profile/video.gif" alt="Innovative-AI" />
 </p>
 
 ## About Us
