@@ -1,5 +1,8 @@
 # Welcome to InnovativeAI
 
+<p align="center">
+<img src="https://github.com/innovativeai/profile/video.gif">
+</p>
 
 ## About Us
 InnovativeAI is a collaborative team of machine learning engineers, data scientists, and researchers dedicated to advancing the field of artificial intelligence. Our mission is to develop and deploy cutting-edge AI solutions that address real-world challenges and drive innovation across various industries.
