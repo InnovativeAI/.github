@@ -15,7 +15,7 @@ InnovativeAI is a collaborative team of machine learning engineers, data scienti
 ## Projects
 ### Image Recognition with Deep Learning
 - **Description**: Our team is actively working on developing an advanced image recognition system using deep learning algorithms. This project aims to achieve high accuracy in identifying and classifying objects within images.
-- **Repository**: [ImageRecognition](https://github.com/InnovativeAI/ImageRecognition)
+- **Repository**: [ImageRecognition](https://github.com/innovativeAI/image_recognition_system)
 
 ### Sentiment Analysis for Social Media
 - **Description**: We are building a sentiment analysis model to analyze social media content and extract meaningful insights from user-generated data. This project involves natural language processing techniques and machine learning algorithms.
