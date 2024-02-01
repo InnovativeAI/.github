@@ -19,7 +19,7 @@ InnovativeAI is a collaborative team of machine learning engineers, data scienti
 
 ### Sentiment Analysis for Social Media
 - **Description**: We are building a sentiment analysis model to analyze social media content and extract meaningful insights from user-generated data. This project involves natural language processing techniques and machine learning algorithms.
-- **Repository**: [SocialMediaSentiment](https://github.com/InnovativeAI/SocialMediaSentiment)
+- **Repository**: [SocialMediaSentiment](https://github.com/InnovativeAI/Flappy_Bird)
 
 ### Autonomous Drone Navigation
 - **Description**: Our team is researching and developing an autonomous drone navigation system using reinforcement learning. This project aims to enable drones to navigate complex environments and perform tasks with minimal human intervention.
